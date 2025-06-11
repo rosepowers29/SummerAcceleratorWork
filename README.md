@@ -1,3 +1,3 @@
 # SummerAcceleratorWork
 
-#log for muon collider accelerator R&D-related work
+log for muon collider accelerator R&D-related work
